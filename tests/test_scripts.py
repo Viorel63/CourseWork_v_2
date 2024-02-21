@@ -27,4 +27,3 @@ def test_get_to():
 
 def get_money():
 	pass
-
