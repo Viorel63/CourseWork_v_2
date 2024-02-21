@@ -1,7 +1,4 @@
-import pytest
-
-
-from scripts.scripts import time_correct, five_items
+from utils.scripts import time_correct, five_items
 
 
 def test_get_transactions():

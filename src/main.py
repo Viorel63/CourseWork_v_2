@@ -1,5 +1,5 @@
 from utils.read_json_file import load_data
-from scripts.scripts import get_transactions, sort_transactions, five_items, time_correct, get_from
+from utils.scripts import get_transactions, sort_transactions, five_items, time_correct, get_from
 
 
 def main():
