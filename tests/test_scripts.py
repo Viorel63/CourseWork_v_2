@@ -25,5 +25,5 @@ def test_get_to():
 	pass
 
 
-def get_money():
+def test_get_money():
 	pass
