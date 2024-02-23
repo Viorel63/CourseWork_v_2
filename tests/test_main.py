@@ -1,2 +1,5 @@
+import src
+
+
 def test_main():
-	pass
+	assert src.test_main([]) == None
